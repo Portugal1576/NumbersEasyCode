@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NumbersEasyCode</string>
+    <string name="get_fact">GET FACT</string>
+    <string name="get_random_number">GET RANDOM NUMBER</string>
+    <string name="input_a_number">Input a number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
